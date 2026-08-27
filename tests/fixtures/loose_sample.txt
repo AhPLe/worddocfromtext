@@ -1,0 +1,21 @@
+Jordan Sample
+jordan.sample@example.com | jsample.github.io | Springfield, ST | (open to relocation)
+
+Summary
+Data analyst who enjoys tidy pipelines and honest metrics.
+
+Professional Experience
+Acme Corp - Springfield, ST - Jan 2020-Present
+Data Analyst
+- Built dashboards that management actually opened.
+- Cut report prep time by 40% with validation tooling.
+
+Education
+M.S., Data Things - State University - 2018-2020 - GPA 3.9
+
+Technical Skills
+Data & technical: SQL, Python, R, Pandas
+Materials science: FTIR, NMR
+
+Publications & Awards
+- Sample, J. "A Paper" Journal of Examples, 2021.
